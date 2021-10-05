@@ -1,0 +1,147 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 700px;
+    height:1800px;
+    background-color:rgb(241, 241, 241);
+    margin: 0 auto;
+   
+}
+.container #title1{
+    text-align: center;
+    background-color: brown;
+    color: #fff;
+}
+.row{
+    display: flex;
+    padding: 2% 10%;
+    justify-content: space-between;
+    /* background: rgb(225, 234, 238); */
+    border-radius: 30px;
+   
+}
+.row img{
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+   
+ }
+  .row h3{
+    padding:25px;
+    font-size:25px;
+    font-family:'Times New Roman', Times, serif;
+
+}
+.row1{
+    margin-top: 10px;
+    padding: 20px;
+    /* background-color: rgb(231, 187, 171); */
+    border-radius: 30px;
+}
+.row1 h1{
+    background: #ff3455;
+    display: inline-block;
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: 25px;
+}
+.row1 p{
+    padding: 12px;
+}
+
+.row2{
+    margin-top: 5px;
+    padding: 20px;
+
+}
+.row2 h1{
+    background: #ff3455;
+    display: inline-block;
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: 25px;
+}
+.row2 p{
+    padding: 12px;
+}
+.row3{
+    margin-top: 5px;
+    padding: 20px;
+
+}
+.row3 h1{
+    background: #ff3455;
+    display: inline-block;
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: 25px;
+}
+.row3 p{
+    padding: 12px;
+}
+.row2 #college{
+    font-size: 20px;
+    padding-top: 10px;
+    color: rgb(211, 24, 111);
+}
+.row2 #uni{
+    padding-top: 10px;
+    color: rgb(211, 24, 111);
+}
+#company1{
+    padding-top: 10px;
+    color: blueviolet;
+    font-size: 20px;
+}
+.row2{
+    /* background-color: rgb(181, 219, 221); */
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.row3{
+    /* background-color: rgb(214, 243, 118); */
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.row4{
+    margin-top: 20px;
+    /* background-color: rgb(255, 255, 170); */
+    border-radius: 30px;
+}
+.row4 .Skills{
+    background: crimson;
+    color: white;
+    font-size: 25px;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+}
+.row4 ul{
+    padding: 30px;
+    font-size: 20px;
+    
+}
+.row5{
+    margin-top: 20px;
+    /* background-color: rgb(121, 121, 9); */
+    border-radius: 30px;
+}
+.row5 .Software{
+    background: rgb(231, 26, 70);
+    color: white;
+    font-size: 25px;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+}
+.row5 ul{
+    padding: 30px;
+    font-size: 20px;
+    color: rgb(19, 18, 18);
+    margin-bottom: 40px;
+    
+}
